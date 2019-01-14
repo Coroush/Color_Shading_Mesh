@@ -23,7 +23,7 @@ The following code assigns color shading patterns on mesh vertices based on the 
   - Using gradient between two colors
   - Using graph mapper
 - The colors are assigned to each vertex and a new mesh is constructed.
-![Grasshopper Algorithm](./doc/Definition.png)
+![Grasshopper Algorithm](./doc/definition.png)
 
 ### Prerequisites
 
